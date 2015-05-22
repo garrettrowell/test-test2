@@ -4,12 +4,12 @@
 # basic functionality
 #
 
-class test1 {
+class test2 {
 
-  file { 'test1':
+  file { 'test2':
     ensure  => file,
-    path    => '/root/test1',
-    content => 'I am test1',
+    path    => '/root/test2',
+    content => 'I am test2',
   }
 
 }

@@ -1,4 +1,4 @@
-name          'test-test1'
+name          'test-test2'
 version       '0.1.0'
 source        ''
 author        'test'

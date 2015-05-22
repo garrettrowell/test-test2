@@ -2,10 +2,10 @@
 
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
-3. [Setup - The basics of getting started with test1](#setup)
-    * [What test1 affects](#what-test1-affects)
+3. [Setup - The basics of getting started with test2](#setup)
+    * [What test2 affects](#what-test2-affects)
     * [Setup requirements](#setup-requirements)
-    * [Beginning with test1](#beginning-with-test1)
+    * [Beginning with test2](#beginning-with-test2)
 4. [Usage - Configuration options and additional functionality](#usage)
 5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
 5. [Limitations - OS compatibility, etc.](#limitations)
@@ -13,7 +13,7 @@
 
 ## Overview
 
-A one-maybe-two sentence summary of what the module does/what problem it solves. This is your 30 second elevator pitch for your module. Consider including OS/Puppet version it works with.       
+A one-maybe-two sentence summary of what the module does/what problem it solves. This is your 30 second elevator pitch for your module. Consider including OS/Puppet version it works with.
 
 ## Module Description
 
@@ -23,25 +23,25 @@ If your module has a range of functionality (installation, configuration, manage
 
 ## Setup
 
-### What test1 affects
+### What test2 affects
 
 * A list of files, packages, services, or operations that the module will alter, impact, or execute on the system it's installed on.
 * This is a great place to stick any warnings.
-* Can be in list or paragraph form. 
+* Can be in list or paragraph form.
 
 ### Setup Requirements **OPTIONAL**
 
-If your module requires anything extra before setting up (pluginsync enabled, etc.), mention it here. 
+If your module requires anything extra before setting up (pluginsync enabled, etc.), mention it here.
 
-### Beginning with test1
+### Beginning with test2
 
-The very basic steps needed for a user to get the module up and running. 
+The very basic steps needed for a user to get the module up and running.
 
 If your most recent release breaks compatibility or requires particular steps for upgrading, you may wish to include an additional section here: Upgrading (For an example, see http://forge.puppetlabs.com/puppetlabs/firewall).
 
 ## Usage
 
-Put the classes, types, and resources for customizing, configuring, and doing the fancy stuff with your module here. 
+Put the classes, types, and resources for customizing, configuring, and doing the fancy stuff with your module here.
 
 ## Reference
 
@@ -57,4 +57,4 @@ Since your module is awesome, other users will want to play with it. Let them kn
 
 ## Release Notes/Contributors/Etc **Optional**
 
-If you aren't using changelog, put your release notes here (though you should consider using changelog). You may also add any additional sections you feel are necessary or important to include here. Please use the `## ` header. 
+If you aren't using changelog, put your release notes here (though you should consider using changelog). You may also add any additional sections you feel are necessary or important to include here. Please use the `## ` header.
