@@ -1,0 +1,10 @@
+name          'test-test1'
+version       '0.1.0'
+source        ''
+author        'test'
+license       'Apache 2.0'
+summary       'I am a test'
+description   ''
+project_page  ''
+
+dependency 'puppetlabs/stdlib'

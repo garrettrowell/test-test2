@@ -1,0 +1,16 @@
+{
+  "name": "test-test1",
+  "version": "0.1.0",
+  "author": "test",
+  "summary": "I am a test",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": "",
+  "issues_url": "",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
